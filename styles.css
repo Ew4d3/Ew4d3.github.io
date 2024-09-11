@@ -54,15 +54,35 @@ nav ul li a:hover {
     color: #ddd;
 }
 
+
+
+
+
+
+
+
+
 main {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    font-size: 5px;
+    font-size: 15px;
     border-radius: 5px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
 
 main h2 {
     margin-bottom: 10px;
