@@ -67,7 +67,7 @@ nav ul li a:hover {
 
 
 main {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 20px auto;
     padding: 20px;
     background-color: #fff;
@@ -136,6 +136,7 @@ footer {
     padding: 20px ;
     background-color: #333;
     color: #ffffff;
+    font-size: 10px;
     margin-top: 20px;
 
 }
