@@ -50,11 +50,11 @@ nav ul li a {
     color: #fff;
     text-decoration: none;
     font-size: 1.1em;
-    transition: color 0.3s ease;
+    transition: color 0.35s ease;
 }
 
 nav ul li a:hover {
-    color: #ddd;
+    color: #ff3131;
 }
 
 
@@ -71,10 +71,10 @@ main {
     margin: 20px auto;
     padding: 20px;
     background-color: #fff;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    font-size: 16px;
-    border-radius: 5px;
-    line-height: 1.7;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    font-size: 15px;
+    border-radius: 20px;
+    line-height: 1.6;
 }
 
 
@@ -100,12 +100,14 @@ main h2 {
 
 main p, main ul { 
     margin-bottom: 20px;
+    line-height: 1.6;
+
 
 }
 
 .job, .project {
     margin-bottom: 20px;
-    line-height: 1.6;
+    line-height: 1.5;
 
 
 }
@@ -131,9 +133,9 @@ main p, main ul {
 
 footer {
     text-align: center;
-    padding: 10px 0;
+    padding: 20px ;
     background-color: #333;
-    color: #fff;
+    color: #ffffff;
     margin-top: 20px;
 
 }
