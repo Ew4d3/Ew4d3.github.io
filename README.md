@@ -14,7 +14,7 @@ Future Development
 Since launching the website, I have continued to develop my technical skills and work on more advanced projects. I plan to revisit and improve the website to reflect my academic progress,
 expand the projects section, update my CV, and incorporate the knowledge and experience I have gained through further software development.
 
-This project represents an early milestone in my journey towards becoming a software engineer and will continue to evolve alongside my skills and experience.
+This project represents an early milestone in my journey towards becoming a software engineer and will continue to evolve alongside my skills and experience. 
 
 
 
